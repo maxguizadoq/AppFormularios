@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppFormularios</string>
+    <string name="valtituloregistro">REGISTRAR PERSONA</string>
+    <string name="valetnombre">Ingrese su nombre</string>
+    <string name="valetapellido">Ingrese su apellido</string>
+    <string name="valgenero">Seleccione un género</string>
+    <string name="valrbmasculino">Masculino</string>
+    <string name="valrbfemenino">Femenino</string>
+    <string name="valrbotros">Otra opción</string>
+    <string name="valpreferencias">Seleccione sus preferencias</string>
+    <string name="valcbdeportes">Deportes</string>
+    <string name="valcbdibujo">Dibujo</string>
+    <string name="valcbotro">Otras preferencias</string>
+    <string name="valestadocivil">Seleccione estado civil</string>
+    <string name="valswnotificar">¿Notificar por correo?</string>
+    <string name="valbtnregistrar">REGISTRAR PERSONA</string>
+    <string name="valbtnlistar">LISTAR PERSONAS</string>
+    <string name="titulolista">LISTADO DE PERSONAS</string>
+</resources>
