@@ -183,4 +183,9 @@ public class MainActivity extends AppCompatActivity implements
     public void onNothingSelected(AdapterView<?> parent) {
 
     }
+
+
+    public String metodoLuisAngel(){
+        return "probando Git Hub.";
+    }
 }
